@@ -76,7 +76,3 @@ ExpireMate adalah aplikasi pelacak tanggal kedaluwarsa barang yang dirancang den
 
 ---
 
-## 🧪 Hasil Pengujian Terverifikasi
-- **flutter analyze**: `No issues found! (ran in 1.6s)` (0 error, 0 warning).
-- **flutter test**: `14 tests passed!` (100% lulus).
-- **flutter build web**: `√ Built build\web (53.8s)` (Kompilasi Web Chrome Berhasil).
