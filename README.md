@@ -17,7 +17,7 @@ ExpireMate adalah aplikasi pelacak tanggal kedaluwarsa barang yang dirancang den
 
 ---
 
-## ✨ Fitur & Antarmuka Bahasa Indonesia (UI/UX Redesign)
+## ✨ Fitur & Antarmuka (UI/UX Design)
 1. **Seluruh Antarmuka Berbahasa Indonesia**:
    - Seluruh teks, label, sapaan waktu, nama kategori, status kedaluwarsa, format tanggal, pesan konfirmasi, validasi formulir, dan notifikasi menggunakan Bahasa Indonesia yang ramah dan natural.
 2. **Dashboard Kreatif & Modern**:
